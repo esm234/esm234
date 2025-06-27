@@ -4,9 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 -------------
 
-I have been learning code for 8 years first at high school i started with web development and learnt react then i go to college and i got a bachelor in cs and in my third year i got an internship at apple and after i graduate i work as a freelancer for six months and now i work at google
-
-*   🌍  I'm based in Washington
+I have been learning code for 4 years first at middle school i started with web development and learnt react then 
+*   🌍  I'm based in riyadh
 *   🧠  I'm learning A angular js and mobile development<a href="https://www.github.com/esm234" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/esm234?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a>### Skills<p align="left">
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
